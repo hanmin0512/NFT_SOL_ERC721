@@ -1,4 +1,7 @@
 # nft-marketplace-starter-kit
+![image](https://github.com/hanmin0512/NFT_SOL_ERC721/assets/37041208/49d45303-d34e-42fd-8309-9ad63cebcf72)
+
+
 Please run npm install on the terminal to download the appropriate packages already defined to the package.json file. 
 Make sure you are in the source file. 
 
